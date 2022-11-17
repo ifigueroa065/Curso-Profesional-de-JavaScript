@@ -13,6 +13,10 @@ Mejorando habilidades en Javascript. Conociendo Typescript y cómo ocuparlo para
 * Desarrollar plugins para poder manipular elementos del DOM.
 * Estructurar mejor tu código utilizando patrones de diseño.
 
+## Apoyo :man_technologist:
+    npm init -y
+    npm i -D live-server
+    
 ## Editor de código a tiempo real :man_technologist:
     https://codi.link/%7C%7C
 

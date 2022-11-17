@@ -1,0 +1,24 @@
+{
+  "name": "curso-profesional-de-javascript",
+  "version": "1.0.0",
+  "description": "Mejorando habilidades en Javascript. Conociendo Typescript y cómo ocuparlo para mejorar el control de variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifigueroa065/Curso-Profesional-de-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifigueroa065/Curso-Profesional-de-JavaScript/issues"
+  },
+  "homepage": "https://github.com/ifigueroa065/Curso-Profesional-de-JavaScript#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
