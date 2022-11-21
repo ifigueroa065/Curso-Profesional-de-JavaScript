@@ -9,7 +9,7 @@ Mejorando habilidades en Javascript. Conociendo Typescript y cómo ocuparlo para
 ## Objetivos :rocket:
  
 * Comprender el funcionamiento de un motor de Javascript.
-* Implementar tipado en las variables de tus scripts con Typescript.
+* Implementar tipado en las variables de scripts con Typescript.
 * Desarrollar plugins para poder manipular elementos del DOM.
 * Estructurar mejor tu código utilizando patrones de diseño.
 
