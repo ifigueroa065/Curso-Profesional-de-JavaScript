@@ -17,8 +17,8 @@ Mejorando habilidades en Javascript. Conociendo Typescript y cómo ocuparlo para
     npm init -y
     npm i -D live-server
     
-## Editor de código a tiempo real :man_technologist:
-    https://codi.link/%7C%7C
+## AST explorer :deciduous_tree:
+    https://astexplorer.net/#/gist/16fc27fc420f705455f2b42b6c804aa1/d9cc7988c2c743d7edfbb3c3b1abed866c975ee4
 
 ## Event loop :white_check_mark:
     https://bit.ly/3JT9Mhr
