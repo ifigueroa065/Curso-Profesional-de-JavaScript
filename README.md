@@ -22,3 +22,6 @@ Mejorando habilidades en Javascript. Conociendo Typescript y cómo ocuparlo para
 
 ## Event loop :white_check_mark:
     https://bit.ly/3JT9Mhr
+
+
+## probando git
