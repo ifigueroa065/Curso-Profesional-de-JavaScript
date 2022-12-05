@@ -24,5 +24,5 @@ Mejorando habilidades en Javascript. Conociendo Typescript y cómo ocuparlo para
     https://bit.ly/3JT9Mhr
 
 
-## Parcel-bundler
+## Parcel-bundler :yellow_heart:
     npm install -D parcel-bundler
